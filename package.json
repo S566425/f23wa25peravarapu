@@ -1,5 +1,5 @@
 {
-  "name": "package.json",
+  "name": "f23wa25peravarapu",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -7,15 +7,14 @@
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
-    "debug": "~2.6.9",
+    "debug": "^4.3.4",
     "express": "^4.18.2",
-    "http-errors": "~1.6.3",
-    "morgan": "~1.9.1",
-    "package.json": "^2.0.1",
+    "http-errors": "^2.0.0",
+    "morgan": "^1.10.0",
     "pug": "^3.0.2"
   },
+  "description": "Iam Sri Vasavi Peravarapu.\r Currently pursuing masters in Northwest Missouri State University.\r This is about Server.\r [Link to my remote Render server]<https://vasu-6g9s.onrender.com>",
   "main": "app.js",
   "author": "",
-  "license": "ISC",
-  "description": ""
+  "license": "ISC"
 }

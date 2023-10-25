@@ -7,8 +7,8 @@ var more=0;
 /* GET users listing. */
 router.get('/', function(req, res, next) {
   
-  router.put(more+1);
-  router.put(sum+more);
+  router.put(more=more+1);
+  router.put(sum=sum+more);
   res.send('Sum is:'+sum);
 });
 

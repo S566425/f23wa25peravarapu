@@ -1,5 +1,6 @@
 var express = require('express');
 var router = express.Router();
+var x;
 var y;
 var atan;
 var exp;
